@@ -1,6 +1,6 @@
 # shell-history-visualizer
-Visualize your bash/zsh/shell history
 ---
+Visualize your bash/zsh/shell history
 
 ## How to run
 
