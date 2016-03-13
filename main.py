@@ -31,6 +31,7 @@ def filter_data(data, filter_frequency):
     return dict((k, v) for k, v in data.iteritems() if v > filter_frequency)
 
 
+#Sets utf-8 as default encoding
 def fix_encoding():
     reload(sys)
     sys.setdefaultencoding("utf-8")
